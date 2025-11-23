@@ -32,7 +32,7 @@ msgstr "Pokaż Pomoc"
 #: data/resources/ui/shortcuts-dialog.blp:14
 msgctxt "shortcut window"
 msgid "Open Menu"
-msgstr "Otwórz menu"
+msgstr "Otwórz Menu"
 
 #: data/resources/ui/shortcuts-dialog.blp:19
 msgctxt "shortcut window"
